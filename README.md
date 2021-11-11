@@ -1,4 +1,4 @@
-# Multiple-Description-Coding
+# Multiple-Description-Video-Coding
 
 * [Source Coding for Multiple Descriptions](https://ieeexplore.ieee.org/document/6772473) [The Bell System Technical Journal, 1980]
 * [Achievable Rates for Multiple Descriptions]() [IEEE TRANSACTIONS ON INFORMATION THEORY, 1982]
