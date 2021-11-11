@@ -1,6 +1,6 @@
 # Multiple-Description-Coding
 
-* Source Coding for Multiple Descriptions By J . K. WOLF, A. D. WYNER , and J . ZIV (Manuscript received March 31, 1980)
+* [Source Coding for Multiple Descriptions](https://ieeexplore.ieee.org/document/6772473) [The Bell System Technical Journal, 1980][By J . K. WOLF, A. D. WYNER , and J . ZIV]
 * On Multiple Description Coding of Sources with Memory, IEEE TRANSACTIONS ON COMMUNICATIONS, VOL. 58, NO. 8, AUGUST 2010
 * New Results in Binary, Multiple Descriptions, ZHEN ZHANG AND TOBY BERGER, IEEE TRANSACTIONS ON INFORMATION THEORY, VOL. IT-33, NO. 4, JULY 1987
 * Achievable Rates for Multiple Descriptions, ABBAS A. EL GAMAL, MEMBER, IEEE, AND THOMAS M. COVER, FELLOW, IEEE,  IEEE TRANSACTIONS ON INFORMATION THEORY, VOL. ~-28, NO. 6, NOVEMBER 1982
